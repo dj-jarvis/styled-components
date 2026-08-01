@@ -1,1 +1,1 @@
-packages/styled-components/CHANGELOG.md
+/packages/styled-components/CHANGELOG.md
